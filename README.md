@@ -1,4 +1,5 @@
 <img width="3840" height="2160" alt="preview" src="https://github.com/user-attachments/assets/be010a60-e3e8-4c06-a7c5-8507db2af0b3" />
+
 > Lilly by Dizziee.
 
 The Lilly theme was created specifically for the **OMARCHY** | Hyprland system.</br>
